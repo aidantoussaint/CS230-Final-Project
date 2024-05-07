@@ -1,4 +1,5 @@
 pandas
 numpy
 pydeck
-matplotlib.pylot
+matplotlib
+streamlit
