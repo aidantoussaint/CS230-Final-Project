@@ -115,7 +115,7 @@ def app():
         st.write("Please navigate using the sidebar to see different visualizations.")
         st.write("This program is a compilation of Bridges in Georgia including locations, designs, and owner agencies.")
         #Image Display
-        st.image("C:/Users/aidan/OneDrive - Bentley University/Spring 2024/CS230/gerogiabridge.jpg", caption="Anaklia-Ganmukhari Pedestrian Bridge")
+        st.image("gerogiabridge.jpg", caption="Anaklia-Ganmukhari Pedestrian Bridge")
 
     elif page == "Pie Chart":
         st.title("Pie Chart of Bridge Agencies")
